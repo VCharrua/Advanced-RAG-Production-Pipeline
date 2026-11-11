@@ -1,0 +1,201 @@
+query_id,category,query_text
+Q_CAT_A_001,Category A,What is the continuous maximum power rating and thermal efficiency of the GTX-9000 gas turbine?
+Q_CAT_A_002,Category A,What is the operational power turbine speed range and primary reduction gear ratio for the GTX-9000?
+Q_CAT_A_003,Category A,What fuel types are authorized for the GTX-9000 turbine and what is the required manifold pressure range?
+Q_CAT_A_004,Category A,What is the maximum allowable continuous Interstage Turbine Temperature (ITT) for the GTX-9000 before emergency trip?
+Q_CAT_A_005,Category A,What synthetic lubricant specification and nominal sump capacity are required for the GTX-9000 lube oil system?
+Q_CAT_A_006,Category A,What is the broadband vibration warning threshold and automatic shutdown limit for the GTX-9000 bearing housings?
+Q_CAT_A_007,Category A,What is the nominal operating pressure and fluid specification for the Hydraulic Pump Unit HPU-1?
+Q_CAT_A_008,Category A,What is the maximum allowable flow velocity in the primary hydraulic distribution line for HPU-1?
+Q_CAT_A_009,Category A,What hydrostatic proof test pressure is mandated every 36 months for Steering Ram SR-4?
+Q_CAT_A_010,Category A,What is the compression set replacement limit for fluorocarbon O-rings in Servo Valve SV-9?
+Q_CAT_A_011,Category A,What operating pressure rating is specified for Centrifugal Chiller CH-101 in the chilled water system?
+Q_CAT_A_012,Category A,What is the proof test pressure required for the Titanium Plate Heat Exchanger during 36-month hydrostatic testing?
+Q_CAT_A_013,Category A,What fluid type is specified for the Glycol Antifreeze Subsystem in the auxiliary chilled water plant?
+Q_CAT_A_014,Category A,What is the nominal system pressure rating for Switchboard SB-A1 in the 440V shipboard distribution network?
+Q_CAT_A_015,Category A,What is the periodic hydrostatic proof test pressure for the Static Inverter Unit housing enclosure?
+Q_CAT_A_016,Category A,What is the minimum flashpoint permitted by SOLAS Chapter II-2 Regulation 4 for general marine fuel oil?
+Q_CAT_A_017,Category A,"Under ClassNK Section 8.2, what is the maximum allowable planar flaw length in hull butt welds within the 0.4L midship region?"
+Q_CAT_A_018,Category A,What is the standard scheduled overhaul interval for High-Pressure Fuel Injection Pump PUMP-HP-01?
+Q_CAT_A_019,Category A,What is the specified fastener torque for Line Shaft Journal Bearing #3 (BRG-RAD-05)?
+Q_CAT_A_020,Category A,What is the standard replacement cost of Stage 2 Power Turbine Rotor Blades (TURB-BLD-02)?
+Q_CAT_A_021,Category A,What is the scheduled overhaul interval for the 440V 2.5MW Ship Service Generator ELEC-GEN-01?
+Q_CAT_A_022,Category A,What is the fastener torque specification for Dual Cylinder Steering Ram Cylinder RUDD-ACT-02?
+Q_CAT_A_023,Category A,What is the required insulation resistance threshold during megger testing for ELEC-GEN-01 stator windings?
+Q_CAT_A_024,Category A,"What is the maximum allowable NOx emission level for engines running at or above 2,000 RPM under IMO Tier III?"
+Q_CAT_A_025,Category A,What is the minimum width of cofferdams separating fuel storage tanks from boilers under SOLAS?
+Q_CAT_A_026,Category A,"Under Section 7.1 of the procurement contract, what quality assurance standard must the Contractor maintain?"
+Q_CAT_A_027,Category A,What retainage percentage is withheld from interim milestone disbursements under Section 9.3 of Contract MSA-2023-882?
+Q_CAT_A_028,Category A,How many days advance notice must the Contractor provide before substituting Key Personnel under Section 2.2?
+Q_CAT_A_029,Category A,"Under Section 11.5 of MSA-2023-882, within how many days must notice of an excusable delay be submitted?"
+Q_CAT_A_030,Category A,What security clearance is required for personnel entering shipboard engineering spaces under Section 3.4?
+Q_CAT_A_031,Category A,"Under Section 6.2 of the procurement contract, how much notice must the Government provide for termination for convenience?"
+Q_CAT_A_032,Category A,What forum is designated for adjudicating contract disputes under Section 15.1 of MSA-2023-882?
+Q_CAT_A_033,Category A,What is the standard warranty duration specified in Section 14.2 following Sea Acceptance Trials?
+Q_CAT_A_034,Category A,What is the extended latent defect warranty duration for propulsion machinery and hull structural welds under Section 14.2?
+Q_CAT_A_035,Category A,"Under Section 13.3 of MSA-2023-882, which federal regulations govern lead paint and asbestos abatement?"
+Q_CAT_A_036,Category A,What is the nitrogen gas tracer leak test pressure specified for Centrifugal Chiller Compressor #2?
+Q_CAT_A_037,Category A,What is the failure criticality rating of Line Shaft Journal Bearing #3 (BRG-RAD-05)?
+Q_CAT_A_038,Category A,What is the prescribed preventive action for Emergency 30-Bar Diesel Air Compressor COMP-AIR-03?
+Q_CAT_A_039,Category A,What is the standard replacement cost of Main Sea Chest Fire & Bilge Pump FIRE-PMP-01?
+Q_CAT_A_040,Category A,What is the mechanical interface operational clearance tolerance specified in Auxiliary Manual Vol 1 Step 1?
+Q_CAT_B_001,Category B,"Under Section 5.1 Termination for Default, what cure period is granted and how are resulting liquidated damages capped per Appendix B?"
+Q_CAT_B_002,Category B,What is the per-diem liquidated damage rate and grace period for Gas Turbine Integration (MS-2) under Appendix B and Section 5.1.1?
+Q_CAT_B_003,Category B,How does Section 5.1 interact with Special Provision B.4 of Appendix B regarding liquidated damages upon contract termination?
+Q_CAT_B_004,Category B,"Under Section 8.4, what are the Contractor's indemnification obligations and how are they constrained by Appendix E?"
+Q_CAT_B_005,Category B,What exceptions exist to the liability limitation ceiling defined in Appendix E referenced by Section 8.4?
+Q_CAT_B_006,Category B,What response time is required for latent defect notifications under Section 14.2 and what extended duration applies?
+Q_CAT_B_007,Category B,How does Section 5.1 default termination affect milestone retainage holdbacks governed by Section 9.3 and Appendix B?
+Q_CAT_B_008,Category B,What notice and certification requirements apply to supply chain delays under Section 11.5 before liquidated damages accrue under Section 5.1.1?
+Q_CAT_B_009,Category B,"Under Section 12.1, how are data rights partitioned between technical documentation and commercial software under DFARS?"
+Q_CAT_B_010,Category B,How do the quality assurance surveillance audits in Section 7.1 link to milestone acceptance in Schedule A and retainage in Section 9.3?
+Q_CAT_B_011,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 11?
+Q_CAT_B_012,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 12?
+Q_CAT_B_013,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 13?
+Q_CAT_B_014,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 14?
+Q_CAT_B_015,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 15?
+Q_CAT_B_016,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 16?
+Q_CAT_B_017,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 17?
+Q_CAT_B_018,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 18?
+Q_CAT_B_019,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 19?
+Q_CAT_B_020,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 20?
+Q_CAT_B_021,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 21?
+Q_CAT_B_022,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 22?
+Q_CAT_B_023,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 23?
+Q_CAT_B_024,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 24?
+Q_CAT_B_025,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 25?
+Q_CAT_B_026,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 26?
+Q_CAT_B_027,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 27?
+Q_CAT_B_028,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 28?
+Q_CAT_B_029,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 29?
+Q_CAT_B_030,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 30?
+Q_CAT_B_031,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 31?
+Q_CAT_B_032,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 32?
+Q_CAT_B_033,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 33?
+Q_CAT_B_034,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 34?
+Q_CAT_B_035,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 35?
+Q_CAT_B_036,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 36?
+Q_CAT_B_037,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 37?
+Q_CAT_B_038,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 38?
+Q_CAT_B_039,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 39?
+Q_CAT_B_040,Category B,How do the warranty provisions in Section 14.2 cross-reference technical tolerances in engineering specification NAV-SPEC-GTX-9000 for subsystem component 40?
+Q_CAT_C_001,Category C,"Compare the 2023 refit expenditure for DDG-105 USS Carney against its allocated budget, and identify the primary propulsion plant installed."
+Q_CAT_C_002,Category C,How do the lube oil specifications of the GTX-9000 compare with the observed oil contamination incidents on DDG-101 in 2021?
+Q_CAT_C_003,Category C,Cross-reference the 2024 refit budget variance for DDG-108 USS Laboon with the ClassNK weld testing standard and reported steering gear overhauls.
+Q_CAT_C_004,Category C,Evaluate whether the 2022 refit scope for DDG-103 USS Barry aligns with the maintenance ledger intervals for hydraulic servo valves and chiller units.
+Q_CAT_C_005,Category C,Analyze the relationship between fuel oil flashpoint regulations under SOLAS II-2 and the GTX-9000 fuel operating temperatures and cutoff points.
+Q_CAT_C_006,Category C,Correlate the MARPOL Tier III NOx limit for high-speed engines with the operational speed range of the GTX-9000 gas turbine power turbine.
+Q_CAT_C_007,Category C,Synthesize the financial refit variance for DDG-104 USS Stethem in 2022 with the contract delay liquidated damage provisions under Section 5.1.1.
+Q_CAT_C_008,Category C,Compare the vibration warning thresholds of GTX-9000 bearing housings against propulsion shaft misalignment incidents recorded across DDG-101 and DDG-102.
+Q_CAT_C_009,Category C,How do the warranty notification timelines in Section 14.2 apply to root causes discovered in Fleet Incident INC-2023-DDG-105-1?
+Q_CAT_C_010,Category C,Cross-reference the scheduled overhaul cost of ELEC-GEN-01 with the 2024 refit budget allocation for DDG-107 USS Cole.
+Q_CAT_C_011,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 11 with vessel DDG-104 refit budget ledger entries.
+Q_CAT_C_012,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 12 with vessel DDG-105 refit budget ledger entries.
+Q_CAT_C_013,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 13 with vessel DDG-106 refit budget ledger entries.
+Q_CAT_C_014,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 14 with vessel DDG-107 refit budget ledger entries.
+Q_CAT_C_015,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 15 with vessel DDG-108 refit budget ledger entries.
+Q_CAT_C_016,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 16 with vessel DDG-101 refit budget ledger entries.
+Q_CAT_C_017,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 17 with vessel DDG-102 refit budget ledger entries.
+Q_CAT_C_018,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 18 with vessel DDG-103 refit budget ledger entries.
+Q_CAT_C_019,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 19 with vessel DDG-104 refit budget ledger entries.
+Q_CAT_C_020,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 20 with vessel DDG-105 refit budget ledger entries.
+Q_CAT_C_021,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 21 with vessel DDG-106 refit budget ledger entries.
+Q_CAT_C_022,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 22 with vessel DDG-107 refit budget ledger entries.
+Q_CAT_C_023,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 23 with vessel DDG-108 refit budget ledger entries.
+Q_CAT_C_024,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 24 with vessel DDG-101 refit budget ledger entries.
+Q_CAT_C_025,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 25 with vessel DDG-102 refit budget ledger entries.
+Q_CAT_C_026,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 26 with vessel DDG-103 refit budget ledger entries.
+Q_CAT_C_027,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 27 with vessel DDG-104 refit budget ledger entries.
+Q_CAT_C_028,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 28 with vessel DDG-105 refit budget ledger entries.
+Q_CAT_C_029,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 29 with vessel DDG-106 refit budget ledger entries.
+Q_CAT_C_030,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 30 with vessel DDG-107 refit budget ledger entries.
+Q_CAT_C_031,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 31 with vessel DDG-108 refit budget ledger entries.
+Q_CAT_C_032,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 32 with vessel DDG-101 refit budget ledger entries.
+Q_CAT_C_033,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 33 with vessel DDG-102 refit budget ledger entries.
+Q_CAT_C_034,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 34 with vessel DDG-103 refit budget ledger entries.
+Q_CAT_C_035,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 35 with vessel DDG-104 refit budget ledger entries.
+Q_CAT_C_036,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 36 with vessel DDG-105 refit budget ledger entries.
+Q_CAT_C_037,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 37 with vessel DDG-106 refit budget ledger entries.
+Q_CAT_C_038,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 38 with vessel DDG-107 refit budget ledger entries.
+Q_CAT_C_039,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 39 with vessel DDG-108 refit budget ledger entries.
+Q_CAT_C_040,Category C,Cross-synthesize the auxiliary maintenance protocol for subsystem Part 40 with vessel DDG-101 refit budget ledger entries.
+Q_CAT_D_001,Category D,"In the 2024 maintenance ledger, what is the scheduled overhaul interval, torque spec, and replacement cost for PUMP-HP-01?"
+Q_CAT_D_002,Category D,What are the failure mode and criticality rating specified for Hydraulic Servo Directional Valve VALV-SRV-04?
+Q_CAT_D_003,Category D,What is the fastener torque specification and scheduled overhaul interval for Stage 2 Power Turbine Rotor Blades TURB-BLD-02?
+Q_CAT_D_004,Category D,What is the replacement cost and primary observed failure mode for Line Shaft Journal Bearing #3 BRG-RAD-05?
+Q_CAT_D_005,Category D,What preventive maintenance action is prescribed for Centrifugal Chiller Compressor #2 CHIL-CMP-12?
+Q_CAT_D_006,Category D,What is the replacement cost and overhaul interval for Main Lube Oil Titanium Plate Cooler HEAT-PLT-08?
+Q_CAT_D_007,Category D,What is the fastener torque spec and replacement cost for 440V 2.5MW Ship Service Generator ELEC-GEN-01?
+Q_CAT_D_008,Category D,"Which component in the maintenance ledger has the highest fastener torque specification, and what is its value?"
+Q_CAT_D_009,Category D,What is the scheduled overhaul interval and replacement cost for Emergency 30-Bar Diesel Air Compressor COMP-AIR-03?
+Q_CAT_D_010,Category D,What test pressure is required for Main Sea Chest Fire & Bilge Pump FIRE-PMP-01 during dynamic overhaul?
+Q_CAT_D_011,Category D,"From the refit ledger, what was the total actual incurred cost and net variance for DDG-104 USS Stethem in FY2022?"
+Q_CAT_D_012,Category D,"Which naval vessel had the largest allocated refit budget in the 2021-2024 ledger, and what was the amount?"
+Q_CAT_D_013,Category D,What was the net budget variance for DDG-101 USS Decatur during its 2021 drydock overhaul?
+Q_CAT_D_014,Category D,What per-diem rate and grace period apply to Combat Management System (MS-3) under Appendix B?
+Q_CAT_D_015,Category D,What is the cumulative liability cap percentage for Sea Acceptance Trials (MS-4) in Appendix B?
+Q_CAT_D_016,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 16.
+Q_CAT_D_017,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 17.
+Q_CAT_D_018,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 18.
+Q_CAT_D_019,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 19.
+Q_CAT_D_020,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 20.
+Q_CAT_D_021,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 21.
+Q_CAT_D_022,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 22.
+Q_CAT_D_023,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 23.
+Q_CAT_D_024,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 24.
+Q_CAT_D_025,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 25.
+Q_CAT_D_026,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 26.
+Q_CAT_D_027,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 27.
+Q_CAT_D_028,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 28.
+Q_CAT_D_029,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 29.
+Q_CAT_D_030,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 30.
+Q_CAT_D_031,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 31.
+Q_CAT_D_032,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 32.
+Q_CAT_D_033,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 33.
+Q_CAT_D_034,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 34.
+Q_CAT_D_035,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 35.
+Q_CAT_D_036,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 36.
+Q_CAT_D_037,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 37.
+Q_CAT_D_038,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 38.
+Q_CAT_D_039,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 39.
+Q_CAT_D_040,Category D,Extract the scheduled maintenance hours and criticality ranking for ledger component entry 40.
+Q_CAT_E_001,Category E,"Identify all recorded structural hull micro-fracture incidents across the fleet between 2021 and 2024, summarizing the total downtime hours and primary repair actions."
+Q_CAT_E_002,Category E,"Synthesize all propulsion shaft misalignment incidents across vessels DDG-101 through DDG-108 between 2021 and 2024, citing total downtime and root remediation."
+Q_CAT_E_003,Category E,Provide a comprehensive audit of all lube oil seawater contamination anomalies from 2021 to 2024 across the entire fleet.
+Q_CAT_E_004,Category E,Aggregate all fleet-wide engineering anomalies reported during the entire 2021-2024 evaluation window across all eight naval destroyers.
+Q_CAT_E_005,Category E,Summarize all structural hull micro-fracture and shaft misalignment incidents occurring across the fleet specifically between 2021 and 2022.
+Q_CAT_E_006,Category E,Summarize all lube oil seawater contamination incidents recorded during the two-year period of 2023 and 2024 across all vessels.
+Q_CAT_E_007,Category E,Audit all reported equipment failures and maintenance procedures across Auxiliary Subsystems Manual Volume 1 sections 9.1.1 through 9.1.50.
+Q_CAT_E_008,Category E,Synthesize operating guidelines and technician signoff protocols across Auxiliary Subsystems Volume 2 sections 9.2.1 through 9.2.60.
+Q_CAT_E_009,Category E,Summarize fuel-water coalescence filtration criteria across Auxiliary Subsystems Volume 3 sections 9.3.1 through 9.3.50.
+Q_CAT_E_010,Category E,Aggregate EMI shielding enclosure grounding and gasket maintenance instructions across Auxiliary Volume 4 sections 9.4.1 through 9.4.55.
+Q_CAT_E_011,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 11 (covering maintenance cards MRC-011 series).
+Q_CAT_E_012,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 12 (covering maintenance cards MRC-012 series).
+Q_CAT_E_013,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 13 (covering maintenance cards MRC-013 series).
+Q_CAT_E_014,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 14 (covering maintenance cards MRC-014 series).
+Q_CAT_E_015,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 15 (covering maintenance cards MRC-015 series).
+Q_CAT_E_016,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 16 (covering maintenance cards MRC-016 series).
+Q_CAT_E_017,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 17 (covering maintenance cards MRC-017 series).
+Q_CAT_E_018,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 18 (covering maintenance cards MRC-018 series).
+Q_CAT_E_019,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 19 (covering maintenance cards MRC-019 series).
+Q_CAT_E_020,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 20 (covering maintenance cards MRC-020 series).
+Q_CAT_E_021,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 21 (covering maintenance cards MRC-021 series).
+Q_CAT_E_022,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 22 (covering maintenance cards MRC-022 series).
+Q_CAT_E_023,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 23 (covering maintenance cards MRC-023 series).
+Q_CAT_E_024,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 24 (covering maintenance cards MRC-024 series).
+Q_CAT_E_025,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 25 (covering maintenance cards MRC-025 series).
+Q_CAT_E_026,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 26 (covering maintenance cards MRC-026 series).
+Q_CAT_E_027,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 27 (covering maintenance cards MRC-027 series).
+Q_CAT_E_028,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 28 (covering maintenance cards MRC-028 series).
+Q_CAT_E_029,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 29 (covering maintenance cards MRC-029 series).
+Q_CAT_E_030,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 30 (covering maintenance cards MRC-030 series).
+Q_CAT_E_031,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 31 (covering maintenance cards MRC-031 series).
+Q_CAT_E_032,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 32 (covering maintenance cards MRC-032 series).
+Q_CAT_E_033,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 33 (covering maintenance cards MRC-033 series).
+Q_CAT_E_034,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 34 (covering maintenance cards MRC-034 series).
+Q_CAT_E_035,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 35 (covering maintenance cards MRC-035 series).
+Q_CAT_E_036,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 36 (covering maintenance cards MRC-036 series).
+Q_CAT_E_037,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 37 (covering maintenance cards MRC-037 series).
+Q_CAT_E_038,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 38 (covering maintenance cards MRC-038 series).
+Q_CAT_E_039,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 39 (covering maintenance cards MRC-039 series).
+Q_CAT_E_040,Category E,Compile fleet-wide operational compliance criteria across auxiliary systems span 40 (covering maintenance cards MRC-040 series).

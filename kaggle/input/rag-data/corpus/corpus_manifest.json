@@ -1,0 +1,134 @@
+{
+  "generated_at": "2026-11-05T18:58:59.677470+00:00",
+  "total_chunks": 2584,
+  "total_pages_simulated": 3000,
+  "document_count": 20,
+  "chunk_id_format": "chunk_XXXX",
+  "corpus_structure": {
+    "canonical_chunks": "corpus_chunks.jsonl",
+    "raw_documents_directory": "raw_documents",
+    "description": "Two-tier benchmark architecture: canonical passage chunks for ground-truth retrieval scoring, and authentic un-chunked source markdown documents for hierarchical context and end-to-end ingestion."
+  },
+  "documents": [
+    {
+      "doc_id": "NAV-SPEC-GTX-9000",
+      "doc_title": "Naval Gas Turbine Propulsion System Specification GTX-9000 (Rev 4.2)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 6
+    },
+    {
+      "doc_id": "NAV-SPEC-HYD-450",
+      "doc_title": "Naval High-Pressure Hydraulic Steering & Rudder Actuation System",
+      "doc_type": "engineering_specification",
+      "chunk_count": 15
+    },
+    {
+      "doc_id": "NAV-SPEC-AUX-CHILL",
+      "doc_title": "Auxiliary Closed-Loop Chilled Water & Heat Exchanger System",
+      "doc_type": "engineering_specification",
+      "chunk_count": 15
+    },
+    {
+      "doc_id": "NAV-SPEC-ELEC-440",
+      "doc_title": "Integrated Power Distribution & 440V Shipboard Switchgear",
+      "doc_type": "engineering_specification",
+      "chunk_count": 15
+    },
+    {
+      "doc_id": "DEF-NAV-CTR-2023-882",
+      "doc_title": "Naval Vessel Refit & Modernization Master Services Agreement (MSA-2023-882)",
+      "doc_type": "procurement_contract",
+      "chunk_count": 15
+    },
+    {
+      "doc_id": "REG-IMO-2024",
+      "doc_title": "International Maritime Organization Statutory Directives (MARPOL Annex VI & SOLAS Ch II)",
+      "doc_type": "regulatory_framework",
+      "chunk_count": 3
+    },
+    {
+      "doc_id": "FLEET-MAINT-LEDGER",
+      "doc_title": "Fleet Engineering Maintenance Ledgers and Component Overhaul Schedules (2024)",
+      "doc_type": "maintenance_ledger",
+      "chunk_count": 11
+    },
+    {
+      "doc_id": "FLEET-ANOMALY-LOGS",
+      "doc_title": "Naval Fleet Structural Anomaly and Hull Incident Registry (2021-2024)",
+      "doc_type": "fleet_incident_log",
+      "chunk_count": 96
+    },
+    {
+      "doc_id": "MAN-AUX-1",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 1)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 200
+    },
+    {
+      "doc_id": "MAN-AUX-2",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 2)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 200
+    },
+    {
+      "doc_id": "MAN-AUX-3",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 3)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 200
+    },
+    {
+      "doc_id": "MAN-AUX-4",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 4)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 200
+    },
+    {
+      "doc_id": "MAN-AUX-5",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 5)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 200
+    },
+    {
+      "doc_id": "MAN-AUX-6",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 6)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-7",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 7)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-8",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 8)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-9",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 9)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-10",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 10)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-11",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 11)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 201
+    },
+    {
+      "doc_id": "MAN-AUX-12",
+      "doc_title": "Auxiliary Subsystems Maintenance Manual (Vol 12)",
+      "doc_type": "engineering_specification",
+      "chunk_count": 202
+    }
+  ]
+}
